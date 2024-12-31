@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context=".FoodFragment"
+    android:background="@color/white">
+
+    <androidx.cardview.widget.CardView
+        android:layout_width="340dp"
+        android:layout_height="146dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="-10dp"
+        android:alpha="0.7"
+        app:cardCornerRadius="15dp">
+
+        <ImageView
+            android:layout_width="340dp"
+            android:layout_height="210dp"
+            android:scaleType="centerCrop"
+            android:src="@color/black" />
+
+        <TextView
+            android:id="@+id/foodDescription"
+            android:layout_width="300dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:text="Klik Tombol Dibawah Untuk Melihat List Aneka Makanan Panggang Dari Berkah Bakery"
+            android:textAlignment="center"
+            android:textColor="@color/white"
+            android:textSize="16sp"
+            android:textStyle="italic"
+            android:visibility="visible" />
+
+    </androidx.cardview.widget.CardView>
+
+    <androidx.cardview.widget.CardView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="200dp"
+        app:cardBackgroundColor="@color/white"
+        app:cardElevation="0dp">
+
+        <Button
+            android:id="@+id/button1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Lihat"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="83dp"
+            android:backgroundTint="@color/hex"
+            android:textColor="@color/white"/>
+    </androidx.cardview.widget.CardView>
+
+</FrameLayout>

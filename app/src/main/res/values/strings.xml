@@ -1,0 +1,100 @@
+<resources>
+    <string name="app_name">UAS_Mobile</string>
+    <string name="account">Account</string>
+    <string name="makanan">Makanan</string>
+    <string name="home">Home</string>
+    <string name="search">Search</string>
+    <string name="register">REGISTER</string>
+    <string name="login">LOGIN</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="enter_username">Enter Username</string>
+    <string name="selamat_datang_di_berkah_bakery">Selamat Datang Di Berkah Bakery!</string>
+    <string name="berkah_bakery">Berkah Bakery</string>
+    <string name="todo">TODO</string>
+
+    <string-array name="food_name">
+        <item>Macaroon</item>
+        <item>Cheesecake</item>
+        <item>Tiramisu</item>
+        <item>Creme_Brulee</item>
+        <item>Red Velvet Cake</item>
+        <item>Eggnog</item>
+        <item>Lemonade</item>
+        <item>Swedish Meatballs</item>
+        <item>Carbonara</item>
+    </string-array>
+
+    <string-array name="food_desc">
+        <item>Macaron adalah kue kering khas Perancis yang terbuat dari meringue atau busa putih telur dan gula, serta tepung almond.
+            Macaron memiliki tekstur renyah di luar dan lembut di dalam, serta mudah meleleh di mulut. Kue ini biasanya memiliki bentuk bulat dengan
+            bagian atas yang halus dan sedikit melengkung, bagian tepi yang bergelombang, dan bagian bawah yang rata.</item>
+
+        <item>Cheesecake  adalah kue yang umumnya dihidangkan sebagai dessert atau hidangan penutup.
+            Kue ini dibuat dengan mencampurkan beberapa bahan seperti keju, telur, susu, dan gula,
+            yang menghasilkan tekstur lembut dan rasa yang manis. Keju yang umum digunakan dalam membuat cheesecake adalah keju krim.</item>
+
+        <item>Tiramisu adalah makanan penutup rasa kopi yang berasal dari Italia. Tiramisu biasanya terbuat dari ladyfingers (savoiardi)
+            yang dicelupkan ke dalam kopi, lalu dilapisi dengan campuran kocokan telur, gula, dan keju mascarpone, serta ditaburi dengan bubuk kakao.</item>
+
+        <item>Creme Brulee dessert klasik dari Perancis ini identik dengan lapisan karamel gosong. Karamel gosong dihasilkan dari
+            taburan gula yang dibakar menggunakan blow torch. Custard creme brulee mempunyai bertekstur lembut dan rasa creamy.
+            Kelembutan tersebut didapatkan dari bahan utama creme brulee berupa whipped cream cair, susu, dan telur</item>
+
+        <item>Red velvet cake atau dalam bahasa Indonesia dikenal dengan bolu beludru merah/kue beludru merah adalah bolu lapis coklat berwarna merah,
+            cokelat kemerahan, atau kemerahan, yang dilapisi dengan keju krim putih. Resep-resep tradisional tidak memakai pewarna makanan,
+            dengan warna merah didapatkan dari bubuk cokelat yang mengandung antosianin. </item>
+
+        <item>Eggnog adalah minuman hangat yang kaya rasa dan sering dikaitkan dengan perayaan Natal.
+            Minuman ini memiliki tekstur lembut dan creamy, dibuat dari campuran kuning telur yang dikocok,
+            susu, gula, dan rempah-rempah seperti pala atau kayu manis. </item>
+
+        <item>Lemonade adalah minuman segar yang menyegarkan dahaga. Perpaduan manisnya gula dan asamnya
+            lemon menciptakan rasa yang unik dan disukai banyak orang. Minuman ini sempurna dinikmati saat cuaca panas atau sebagai teman bersantai.</item>
+
+        <item>Swedish meatball bola daging lezat khas Swedia. Dibuat dengan daging sapi cincang lembut dibentuk bulat sempurna,
+            lalu dimasak hingga kecokelatan. Disajikan dengan saus krim yang kaya rasa, kentang tumbuk lembut, dan selai
+            lingonberry yang sedikit asam manis. Perpaduan rasa yang unik dan menggugah selera.</item>
+
+        <item>Spaghetti Carbonara adalah hidangan pasta khas Italia yang dikenal dengan rasanya yang gurih dan creamy.
+            Hidangan ini terbuat dari spaghetti yang dicampur dengan saus telur, keju (biasanya Parmesan dan Pecorino Romano),
+            daging (biasanya guanciale atau bacon), dan lada hitam.</item>
+
+    </string-array>
+
+    <string-array name="food_bahan">
+        <item>1. 100 gr gula halus\n2. 100 gr almond bubuk\n3. 2 butir putih telur\n4. Pewarna makanan</item>
+        <item>1. 200 gr cream cheese\n2. 150 gr biskuit digestive\n3. 50 gr mentega cair\n4. 100 gr gula\n5. 2 butir telur</item>
+        <item>1. 250 gr mascarpone\n2. 100 gr gula halus\n3. 200 ml krim kental\n4. 200 ml kopi espresso\n5. Bubuk kakao</item>
+        <item>1. 4 kuning telur\n2. 100 gr gula pasir\n3. 500 ml krim cair\n4. 1 sdt vanili\n5. Gula untuk karamel</item>
+        <item>1. 250 gr tepung terigu\n2. 2 sdm bubuk kakao\n3. 200 gr gula\n4. 120 ml buttermilk\n5. 2 butir telur\n6. 100 ml minyak\n7. Pewarna merah</item>
+        <item>1. 500 ml susu cair\n2. 3 kuning telur\n3. 50 gr gula pasir\n4.  1 | 2 sdt vanili bubuk\n5. 100 ml krim kental</item>
+        <item>1. 3 buah lemon (peras)\n2. 100 gr gula pasir\n3. 1 liter air dingin\n4. Es batu</item>
+        <item>1. 500 gr daging cincang\n2. 100 gr tepung roti\n3. 1 butir telur\n4. 1 bawang bombai, cincang\n5. 200 ml kaldu daging</item>
+        <item>1. 250 gr spaghetti\n2. 100 gr daging asap (bacon)\n3. 2 kuning telur\n4. 50 gr keju parmesan\n5. 2 sdm krim kental\n6. Garam dan lada</item>
+    </string-array>
+
+    <string-array name="food_cara_membuat">
+        <item>1. Campur almond bubuk dan gula halus.\n2. Kocok putih telur hingga kaku.\n3. Tambahkan pewarna makanan.\n4. Masukkan adonan ke piping bag, bentuk bulatan kecil di loyang.\n5. Panggang selama 15-18 menit pada suhu 160°C.</item>
+        <item>1. Campur biskuit hancur dengan mentega cair, tekan di dasar loyang.\n2. Kocok cream cheese, gula, dan telur hingga rata.\n3. Tuang di atas lapisan biskuit.\n4. Panggang selama 45 menit pada suhu 160°C.\n5. Dinginkan sebelum disajikan.</item>
+        <item>1. Celupkan biskuit ladyfinger ke dalam kopi.\n2. Susun lapisan biskuit di loyang.\n3. Campur mascarpone, gula halus, dan krim kental, lalu oleskan di atas biskuit.\n4. Taburkan bubuk kakao di atasnya.\n5. Dinginkan di kulkas selama 4-6 jam.</item>
+        <item>1. Campur kuning telur, gula, dan vanili.\n2. Panaskan krim cair hingga mendidih.\n3. Campurkan krim ke campuran telur secara perlahan.\n4. Tuang ke ramekin, panggang dengan teknik au bain marie selama 40 menit pada suhu 150°C.\n5. Taburi gula, bakar hingga menjadi karamel.</item>
+        <item>1. Campur tepung terigu, bubuk kakao, dan gula.\n2. Tambahkan buttermilk, telur, minyak, dan pewarna merah, aduk rata.\n3. Tuang ke loyang dan panggang 30-35 menit pada suhu 170°C.\n4. Dinginkan, hias dengan cream cheese frosting.</item>
+        <item>1. Campurkan susu cair, kuning telur, dan gula di panci.\n2. Panaskan sambil diaduk hingga mengental.\n3. Tambahkan vanili dan krim kental.\n4. Dinginkan di kulkas sebelum disajikan.</item>
+        <item>1. Campur air dingin, jus lemon, dan gula pasir hingga larut.\n2. Tambahkan es batu sebelum disajikan.</item>
+        <item>1. Campur daging cincang, bawang, telur, dan tepung roti.\n2. Bentuk bola-bola kecil, goreng hingga matang.\n3. Masak dengan kaldu daging selama 10 menit.\n4. Sajikan dengan kentang tumbuk atau saus lingonberry.</item>
+        <item>1. Rebus spaghetti hingga al dente.\n2. Tumis daging asap hingga matang.\n3. Campurkan kuning telur, keju parmesan, dan krim kental.\n4. Masukkan spaghetti ke tumisan daging, aduk rata.\n5. Tambahkan campuran telur dan aduk cepat. Sajikan hangat.</item>
+    </string-array>
+
+    <array name="food_photo">
+        <item>@drawable/macaroon</item>
+        <item>@drawable/cheesecake</item>
+        <item>@drawable/tiramisu</item>
+        <item>@drawable/creme_brulee</item>
+        <item>@drawable/red_velvet</item>
+        <item>@drawable/eggnog</item>
+        <item>@drawable/lemonade</item>
+        <item>@drawable/swedish_meatballs</item>
+        <item>@drawable/carbonara</item>
+
+    </array>
+</resources>

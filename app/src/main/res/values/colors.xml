@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="lightblue">#89A8B2</color>
+    <color name="bottom_nav_color">#89A8B2</color>
+    <color name="hex">#B3C8CF</color>
+    <color name="army_700">#E5E1DA</color>
+    <color name="army_200">#495E57</color>
+    <color name="blue_700">#F1F0E8</color>
+    <color name="text">#89A8B2</color>
+    <color name="core_colors_platinum_white">#F4F6F9</color>
+</resources>
